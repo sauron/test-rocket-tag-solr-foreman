@@ -14,7 +14,6 @@ end
 gem 'jquery-rails'
 gem 'haml'
 gem 'simple_form'
-gem 'twitter-bootstrap-rails'
 gem 'sunspot_rails'
 gem 'sunspot_solr'
 gem "rocket_tag"

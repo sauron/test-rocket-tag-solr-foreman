@@ -1,0 +1,7 @@
+development:
+  adapter: mysql2
+  host: localhost
+  database: test_rocket_tag
+  username: <user>
+  password: <secret>
+  encoding: utf8
