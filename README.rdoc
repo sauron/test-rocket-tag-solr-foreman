@@ -24,7 +24,7 @@ click on add a new product
 
 add it.
 
-The go back to the code and change something on the product.rb e.g. add an 
+Then go back to the code and change something on the product.rb e.g. add an 
 attr_accessor :something
 
 save and go back to the browser.
