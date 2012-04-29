@@ -1,0 +1,10 @@
+<%= simple_form_for @product do |form| %>
+
+  <%= form.input :name %><br />
+
+  Tags:<%= text_field_tag :tags, @tags, :class => "taggable" %><br />
+
+  <%= form.submit 'Save' %>
+  <%= link_to 'Cancel', products_path %>
+
+<% end %>

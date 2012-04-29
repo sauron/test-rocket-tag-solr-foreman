@@ -20,6 +20,6 @@ gem "rocket_tag"
 gem 'rack-cache', :require => 'rack/cache'
 
 group :development do
-  gem 'unicorn'
+  gem 'unicorn', '=4.2.1'
   gem 'foreman'
 end
